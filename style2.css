@@ -1,0 +1,101 @@
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+      
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+      
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	  
+        body{
+			
+			position:relative;
+		}
+		#backg{
+			background-color:#AEE7E5;
+		}
+		#navBar{
+			height:50px;
+		}
+		#info{
+			font-color:#0D0202;
+			height:400px;
+		}
+		#intro{
+		    color:red;
+			font-weight:bold;
+			text-decoration: underline;
+			font-size:50px;
+			position:relative;
+			left:600px;
+			
+		}
+		#pic{
+			height:70px;
+			width:100px;
+			position:relative;
+			left:440px;
+			margin-top:60px;
+		}
+		.edi{
+			color:#1010F5;
+			font-size:20px;
+			margin-left:10px;
+			margin-right:10px;
+			width:50%;
+		}
+		.editit{
+			text-decoration:underline;
+			font-weight:bold;
+			color:#581845;
+			margin-left:8px;
+			position:relative;
+			left:8px;
+			
+		}
+		.next{
+			margin-left:10px;
+			width:50%;
+		}
+		#second{
+			height:390px;
+		}
+		.changeco{
+			color:#873600;;
+			width:50%;
+		}
+		.picchange{
+				width:400px;
+				height:400px;
+				margin:10px;
+		}
+		#youtubevideo{
+			float:right;
+			position:relative;
+			top:10px;
+			margin-left:10px;
+			margin-right:10px;
+			margin-bottom:10px;
+		}
+		#unleft{
+			float:left;
+		}
+		.youtubevideo2{
+			float:right;
+			position:relative;
+			margin-right:10px;
+			margin-left:10px;
+			margin-top:10px;
+			top:-30px;
+		}
+		#third{
+			height:380px;
+		}
+		#prec{
+			font-size:20px;
+		}
+		#justCheck{
+			display:none;
+			margin-left:10px;
+		}
+		#last{
+			margin-bottom:10px;
+			background-color:white;
+		}
