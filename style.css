@@ -45,10 +45,10 @@ th{
 	background-color:#4B040F;
 }
 tr:nth-child(even) {
-	background-color: #51589A;
+	background-color: #ADADBA;
 }
 tr:nth-child(odd) {
-	background-color: #2331B4;
+	background-color: #E0E0F3;
 }
 tr:hover {
 	background-color: #E01714;
